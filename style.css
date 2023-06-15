@@ -10,11 +10,14 @@
     --dot-light: #6C6C6C;
 }
 
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
 body {
     margin: 0;
     padding: 0;
-    width: 100%;
-    height: 100%;
     background-color: black;
     background-size: cover;
     background-position: center;
@@ -25,7 +28,7 @@ body {
     box-sizing: border-box;
     background-color: var(--frame-navbar);
     border: 1px var(--frame-border) solid;
-    border-radius: 8px;
+    border-radius: 0.3125vw;
     position: absolute;
     display: flex;
     flex-direction: column;
@@ -41,7 +44,7 @@ body {
     height: 100%;
     width: 100%;
     background-color: var(--frame-background);
-    border-radius: 8px;
+    border-radius: 0.3125vw;
     overflow: hidden;
     transform: rotate(360deg);
 }

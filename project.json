@@ -37,8 +37,8 @@
 	"preview" : "preview.gif",
 	"tags" : [ "Abstract" ],
 	"title" : "蓝色协议加载窗口 | Blue Protocol Loading",
-	"type" : "web",
-	"version" : 3,
+	"type" : "Web",
+	"version" : 5,
 	"visibility" : "public",
 	"workshopid" : "2989567340",
 	"workshopurl" : "steam://url/CommunityFilePage/2989567340"
