@@ -1,7 +1,20 @@
 {
+	"contentrating" : "Everyone",
+	"description" : "蓝色协议加载窗口\r\n\r\n该壁纸支持：\r\n- 在闲暇时光感受蓝色协议无限加载的快乐\r\n- 更换壁纸\r\n- 拖动窗口",
 	"file" : "index.html",
 	"general" : 
 	{
+		"localization" : 
+		{
+			"en-us" : 
+			{
+				"ui_backgroundimage" : "Background image"
+			},
+			"zh-chs" : 
+			{
+				"ui_backgroundimage" : "背景图片"
+			}
+		},
 		"properties" : 
 		{
 			"backgroundimage" : 
@@ -17,25 +30,16 @@
 				"order" : 0,
 				"text" : "ui_browse_properties_scheme_color",
 				"type" : "color",
-				"value" : "0 0 0"
+				"value" : "0.18823529411764706 0.18823529411764706 0.18823529411764706"
 			}
 		}
 	},
-	"localization" : 
-	{
-		"en-us" : 
-		{
-			"ui_backgroundimage" : "Background image"
-		},
-		"zh-chs" : 
-		{
-			"ui_backgroundimage" : "背景图片"
-		}
-	},
 	"preview" : "preview.gif",
-	"snapshotformat" : 0,
-	"snapshotoverlay" : "",
-	"title" : "蓝色档案加载窗口 | Blue Protocol Loading",
+	"tags" : [ "Abstract" ],
+	"title" : "蓝色协议加载窗口 | Blue Protocol Loading",
 	"type" : "web",
-	"version" : 0
+	"version" : 3,
+	"visibility" : "public",
+	"workshopid" : "2989567340",
+	"workshopurl" : "steam://url/CommunityFilePage/2989567340"
 }
